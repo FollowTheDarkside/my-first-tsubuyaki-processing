@@ -10,3 +10,4 @@ Reference:
 <br>
 - [p5.js - Get Started](https://p5js.org/get-started/)
 - [mrchantey/p5.createLoop](https://github.com/mrchantey/p5.createLoop)
+- [「つぶやきProcessing」を始めるまで](https://note.com/hahaeatora/n/n9585f4231f3a)
